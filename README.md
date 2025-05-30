@@ -43,5 +43,4 @@ This project demonstrates a Band-Stop (Notch) Filter using an RLC network simula
 EV & VLSI transition in progress. Hands-on with LTspice + KiCad + ISO 26262.  
 Certified Lean Six Sigma Green Belt with 10+ years compliance experience.
 
-📌 GitHub: [https://github.com/VishalSingh-ML](https://github.com/VishalSingh-ML)  
 📌 LinkedIn: https://www.linkedin.com/in/vishal-singh-542338161/
